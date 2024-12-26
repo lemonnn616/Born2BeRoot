@@ -51,7 +51,7 @@
 
 ### Setting Up the Virtual Machine
 1. Install **VirtualBox** or **UTM** on your host system.
-2. Download the ISO for your chosen operating system (Debian or CentOS).
+2. Download the ISO for your chosen operating system (Debian or Rocky).
 3. Follow the setup instructions to create a new virtual machine.
 
 ### WordPress and LiteSpeed Configuration
